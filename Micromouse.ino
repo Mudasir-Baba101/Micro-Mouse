@@ -28,6 +28,7 @@ void loop() {
 bool wallFront();
 bool wallRight();
 bool wallFront();
+bool wallLeft();
 void turnTo(Dir d);
 void moveOneCell();
 
